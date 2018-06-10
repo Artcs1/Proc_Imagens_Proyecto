@@ -1,6 +1,6 @@
 **Número Usp:** 10655837
 
-**Titulo do projeto:** 
+**Titulo do projeto:**  Detecção e Classificação de Doenças da Batata
 
 **Área do projeto:** Aprendizado de Características
 
