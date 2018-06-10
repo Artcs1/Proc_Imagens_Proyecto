@@ -1,11 +1,14 @@
 **Número Usp:** 10655837
 
+**Titulo do projeto:** 
+
 **Área do projeto:** Aprendizado de Características
 
-**Contextualização do Problema :** 
+**Descrição do projeto:** 
 
 cada ano o mercado de produção de batata sofre perda devido a infestação de pragas, uma estimativa da Organização das Nações Unidas para Alimentação e Agricultura (FAO), do 20% até 40% de perda na produção. Se essas pragas forem detectadas a tempo, podem ser tomadas medidas preventivas para mitigar a as perdas  produção e econômicas. Tradicionalmente, a detecção dessas pragas é feita por um especialista humano, mas nem todos os produtores podem cobrir as despesas. Assim, o objetivo deste projeto é a detecção e classificação de doenças da batata causadas por pragas.
 
+**Descrição das imagenes:**
 
  O tipo de imagens a ser utilizado são separados em 3 grupos: Imagens de folhas de batata em boas condições, folha de batata Imagens afectada por Phytophthora infestans (pragas avançado), as imagens da folha da batata afectada por Alternaria solani(praga leve) , as imagenes foram obtidos de Plant_village_Dataset [link aqui](https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color) são imagens no formato RGB com dimensões de 256x256.
 
