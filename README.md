@@ -6,7 +6,7 @@
 
 **Descrição do projeto:** 
 
-cada ano o mercado de produção de batata sofre perda devido a infestação de pragas, uma estimativa da Organização das Nações Unidas para Alimentação e Agricultura (FAO), do 20% até 40% de perda na produção. Se essas pragas forem detectadas a tempo, podem ser tomadas medidas preventivas para mitigar a as perdas  produção e econômicas. Tradicionalmente, a detecção dessas pragas é feita por um especialista humano, mas nem todos os produtores podem cobrir as despesas. Assim, o objetivo deste projeto é a detecção e classificação de doenças da batata causadas por pragas.
+Cada ano o mercado de produção de batata sofre perda devido a infestação de pragas, uma estimativa da Organização das Nações Unidas para Alimentação e Agricultura (FAO), do 20% até 40% de perda na produção. Se essas pragas forem detectadas a tempo, podem ser tomadas medidas preventivas para mitigar a as perdas  produção e econômicas. Tradicionalmente, a detecção dessas pragas é feita por um especialista humano, mas nem todos os produtores podem cobrir as despesas. Assim, o objetivo deste projeto é a detecção e classificação de doenças da batata causadas por pragas.
 
 **Descrição das imagenes:**
 
