@@ -14,7 +14,7 @@ Cada ano o mercado de produção de batata sofre perda devido a infestação de 
 
  O tipo de imagens a ser utilizado são separados em 3 grupos: Imagens de folhas de batata em boas condições, folha de batata Imagens afectada por Phytophthora infestans (pragas avançado), as imagens da folha da batata afectada por Alternaria solani(praga leve) , as imagenes foram obtidos de Plant_village_Dataset [link aqui](https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color) são imagens no formato RGB com dimensões de 256x256.
 
-![alt text](https://raw.githubusercontent.com/Artcs1/Proc_Imagens_Proyecto/master/tipo_de_hojas.png)
+![alt text](https://raw.githubusercontent.com/Artcs1/Proc_Imagens_Proyecto/master/Imagens/tipo_de_hojas.png)
 
 **Etapas:**
 ------
