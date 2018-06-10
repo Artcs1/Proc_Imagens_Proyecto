@@ -15,6 +15,7 @@ Cada ano o mercado de produção de batata sofre perda devido a infestação de 
 ![alt text](https://raw.githubusercontent.com/Artcs1/Proc_Imagens_Proyecto/master/tipo_de_hojas.png)
 
 **Etapas:**
+------
 
 *  Segmentação:
     * Segmentação da folha com o fundo: 
