@@ -22,7 +22,7 @@ Cada ano o mercado de produção de batata sofre perda devido a infestação de 
 *  Segmentação:
     * Segmentação da folha com o fundo: 
         
-        *A imagem RGB será convertida para HSV e trabalharemos com o canal de saturação, no qual aplicaremos o método [Otsu](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4310076) , para gerar uma máscara e poder separar o fundo da imagem (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4310076)
+        * A imagem RGB será convertida para HSV e trabalharemos com o canal de saturação, no qual aplicaremos o método [Otsu](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4310076) , para gerar uma máscara e poder separar o fundo da imagem 
 
     * Segmentação das áreas afetadas da folha: 
 
