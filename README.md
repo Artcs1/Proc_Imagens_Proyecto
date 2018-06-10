@@ -22,11 +22,11 @@ Cada ano o mercado de produção de batata sofre perda devido a infestação de 
 *  Segmentação:
     * Segmentação da folha com o fundo: 
         
-        * A imagem RGB será convertida para HSV e trabalharemos com o canal de saturação, no qual aplicaremos o método [Otsu](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4310076) , para gerar uma máscara e poder separar o fundo da imagem 
+        * A imagem RGB foi convertida para HSV e trabalharemos com o canal de saturação, no qual aplicaremos o método [Otsu](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4310076) , para gerar uma máscara e poder separar o fundo da imagem 
 
     * Segmentação das áreas afetadas da folha: 
 
-        * Elimine as regiões verdes da imagem tomando como princípio que elas representam áreas em bom estado. Métodos possíveis: Trabalhar com o canal verde da imagem,Separe as regiões verdes por meio de umbralización .Também é possível trabalhar na escala L* a* b* .
+        * Se elimino as regiões verdes da imagem tomando como princípio que elas representam áreas em bom estado. A imagem foi convertida para o espaço de cores l * a * b *, e no canal a * a imagem foi binarizada para todos os valores a * <0 preto e para todos> * 0 branco (desde que cada valor a * < 0 se aproxima de verde) .
 
 * Extração de recursos:
 
