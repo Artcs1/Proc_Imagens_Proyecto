@@ -22,7 +22,7 @@ Cada ano o mercado de produção de batata sofre perda devido a infestação de 
 *  Segmentação:
     * Segmentação da folha com o fundo: 
         
-        * Use uma máscara para separar a folha do fundo, usando un algoritmo automático que calcula o threshold como [Otsu](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4310076)
+        *A imagem RGB será convertida para HSV e trabalharemos com o canal de saturação, no qual aplicaremos o método [Otsu](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4310076) , para gerar uma máscara e poder separar o fundo da imagem (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4310076)
 
     * Segmentação das áreas afetadas da folha: 
 
@@ -32,7 +32,7 @@ Cada ano o mercado de produção de batata sofre perda devido a infestação de 
 
     * Na imagem resultante serão calculados os descritores tanto na cor quanto na textura(Ej: Euclidean Distance ,Logarithmic Distance,  Mean , Kurtosis ,standard deviation , Entropy , etc)
 
-    *Reduzir a dimensionalidade das características (Opcional): Avaliar diferentes conjuntos de recursos ou aplicar principal component analysis(PCA) , para encontrar a melhor combinatório dos descritores
+    * Reduzir a dimensionalidade das características (Opcional): Avaliar diferentes conjuntos de recursos ou aplicar principal component analysis(PCA) , para encontrar a melhor combinatório dos descritores
 
 * Separação de dados (métodos possíveis):
    
