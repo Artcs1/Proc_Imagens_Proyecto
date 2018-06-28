@@ -5,7 +5,7 @@ import libreria as lib
 
 def main():
     
-    cad = "C:/Users/nineil/Desktop/prueba.jpg" # leitura do nome da imagen
+    cad = "C:/Users/nineil/Desktop/prueba4.jpg" # leitura do nome da imagen
     
     I = imageio.imread(cad) # leitura da imagen
     
