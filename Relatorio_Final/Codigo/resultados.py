@@ -27,7 +27,7 @@ def main():
     features = preprocessing.scale(features) # Normalização
     output = Test[:,9].astype(int) # Y test
 
-    clf = lib.Treinamento(X,Y,'MLP') # escolhiendo classificador 
+    clf = lib.Treinamento(X,Y,'SVM') # escolhiendo classificador 
     Test = lib.Test(clf,features,output,X,Y) # Test
 
 
